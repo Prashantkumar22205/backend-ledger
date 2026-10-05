@@ -29,8 +29,6 @@ Nodemailer	Email notifications
 dotenv	Environment variable management
 Nodemon	Development server
 
-
-📁 Project Structure
 backend-ledger/
 ├── server.js
 ├── package.json
