@@ -57,6 +57,7 @@ backend-ledger/
     │   └── transaction.route.js
     └── services/
         └── email.service.js
+        
 🧩 Architecture
 The application follows a simple layered backend architecture:
 Client
